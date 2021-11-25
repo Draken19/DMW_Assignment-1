@@ -12,6 +12,8 @@ use gridsearchcv
 2. Plot confusion matrix
 3. Plot classification report
 
+
+
 Question 2 :
 
 Build Decision tree model to predict survival based on certain parameters
