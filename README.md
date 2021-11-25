@@ -15,7 +15,9 @@ use gridsearchcv
 Question 2 :
 
 Build Decision tree model to predict survival based on certain parameters
+
 CSV file is available to download at  https://www.kaggle.com/titanic/data
+
 In this file using following columns build a model to predict if person would survive or not.
   1. Pclass
   2. Sex
