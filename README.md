@@ -23,4 +23,5 @@ In this file using following columns build a model to predict if person would su
   2. Sex
   3. Age
   4. Fare
+
 Calculate Score of your model.
